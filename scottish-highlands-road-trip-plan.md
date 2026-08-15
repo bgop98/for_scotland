@@ -306,6 +306,20 @@ CalMac bookings follow timetable seasons. Its current guidance also identifies a
 | 1 October 2027 | Book most mainland rooms in August or early September. For two rooms on Mull, Skye or in one chosen small inn, use July-August as a comfortable target, not a strict deadline. | Compare the car and rail in July-August; reserve a required Mull vehicle sailing about 4-8 weeks ahead. |
 | 1 November 2027 | Book ordinary mainland rooms during October. Check small rural properties and Skye in September or early October because many businesses close for winter. | Compare the car and rail in August-September. No route-defining ferry is needed in the recommended routes. |
 
+### Booking countdown for the February 2027 trip
+
+For the recommended **18 February-24 March 2027 five-week trip**, nothing in Scotland needs to be reserved during summer 2026. The practical booking period begins in late autumn and most accommodation can wait until January.
+
+- **August-November 2026:** decide the approximate duration and monitor Israel-London fares. Book a flight whenever the total price including baggage and seat charges is attractive; there is no need to wait for the Scottish accommodation.
+- **Late November-December 2026:** compare the one-way Edinburgh-to-Glasgow car rental and begin checking London-Scotland rail fares as each travel date enters the operator's booking window. Prefer cancellable car terms because the exact rural route may still change.
+- **Early January 2027:** reserve Skye, Ullapool or Assynt, Torridon and any other small rural property where two rooms in the same building are important. This is a comfortable target rather than a sell-out deadline; travellers accepting nearby villages or separate properties can often wait another two or three weeks.
+- **Mid-January to early February:** book the ordinary mainland nights in Edinburgh, Stirling, Perthshire, the Cairngorms, Aberdeenshire, Speyside, Inverness, Oban and Glasgow. Book these in cancellable blocks so that a weather-driven route change remains possible.
+- **Late January to early February:** check winter opening days and reserve must-do distillery tours or limited-capacity historic visits. Many outdoor ruins need no early reservation, but seasonal closure should never be inferred from summer opening information.
+- **Seven to ten days before departure:** review the medium-range forecast and road conditions. Keep the first part of the route firm, but be prepared to replace Assynt, Torridon or another exposed base with Inverness, Perthshire or extra west-coast nights if conditions deteriorate.
+- **During the trip:** check the next transfer before leaving and avoid treating a long-range forecast as a commitment. Skye is reached by bridge, so the recommended route has no route-defining vehicle ferry.
+
+If the trip is moved from 18 February to the first week of February, bring the January accommodation steps forward by about two weeks. This is mainly to confirm which rural properties are open and to preserve two-room choice, not because February demand is normally high.
+
 For a six-week trip, it is unnecessary to book all 42 nights in one session. A sensible approach is to secure the flights, car, any required Mull sailing and constrained rural nights first, then reserve the mainland route in cancellable blocks. Flexibility over nearby villages is more valuable than reserving every night many months ahead.
 
 ## 8. Current recommendation

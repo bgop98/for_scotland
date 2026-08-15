@@ -1,6 +1,6 @@
 # Scottish Highlands road-trip planning document
 
-Version: 15 August 2026  
+Version: reviewed 15 August 2026
 Planning year: 2027  
 Travellers: two adults, one small rental car, inns and hotels  
 Trip style: scenic and historic sights, relaxed driving, easy walks rather than difficult hiking
@@ -17,6 +17,16 @@ Trip style: scenic and historic sights, relaxed driving, easy walks rather than 
 - International transport is shown separately and then added to produce an indicative complete-trip total.
 - All numbers are planning ranges, not live quotations. Prices are in pounds sterling for **both adults combined**.
 - For rough conversion only, this document uses **GBP 1 = ILS 4.1** and **USD 1 = GBP 0.75**. Exchange rates will move.
+
+### Review outcome
+
+The plan is workable, and every route below has been checked to ensure that its listed base nights equal its advertised total nights. The strongest match for the stated relaxed, scenic-and-historic style is the **five-week 18 February-24 March itinerary**: it avoids route-defining island ferries, uses multi-night bases, and gains daylight as the trip progresses. Its principal weakness is seasonal access, so castles or gardens that are essential should be checked individually before committing to February rather than October.
+
+Before booking, resolve these three points:
+
+1. Decide whether seasonal castle interiors or lower cost and quieter roads matter more; choose October for the former and February-March for the latter.
+2. Confirm whether the travellers will share a room. This is the largest controllable difference in the budget.
+3. Price the complete London connection on the same dates as the direct-to-Scotland alternative, including bags, airport transfer and rail, rather than comparing headline airfares alone.
 
 ## 2. Date options
 
@@ -138,7 +148,7 @@ These avoid route-defining island ferries. The most remote and weather-sensitive
 
 November note: on short days, one principal sight plus a scenic drive is a full rural day. Aim to complete transfers by about 15:30, keep at least two nights per base, and substitute Inverness, Perthshire or an extra city night for Torridon or Ullapool if wintry road conditions develop.
 
-The interactive route map is stored separately as `scotland-route-options.html` in the Codex visualizations folder. It predates the October and November additions, so this document is the current source for the seasonal routes.
+An earlier interactive route map is not included in this repository and predates the October and November additions. This document is therefore the sole current source for the seasonal routes.
 
 ## 4. Corrected international-transport assumptions
 
@@ -171,6 +181,7 @@ A protected one-stop fare to Edinburgh or Glasgow with checked luggage remains a
 
 ### Practical transport recommendation
 
+- Before buying non-refundable travel, use the official UK checker to confirm whether each traveller needs an Electronic Travel Authorisation (ETA) or a visa; entry requirements depend on nationality and circumstances.
 - Fly Tel Aviv-London nonstop.
 - Either spend a night in London or leave at least four hours between scheduled landing and a separately ticketed train.
 - For February and March, take the train to Edinburgh and complete that city portion before collecting the car. For October and November, starting in Glasgow and ending in Edinburgh puts the seasonal west-coast section earlier.
@@ -180,6 +191,8 @@ A protected one-stop fare to Edinburgh or Glasgow with checked luggage remains a
 ## 5. Estimated costs by date and duration
 
 The “via London total” adds **GBP 650-1,100** to the Scotland land estimate. It therefore includes the low-cost airfare model, ordinary luggage, London airport transfers and advance daytime trains. It does not include London accommodation.
+
+Edinburgh stays from 24 July 2026 incur a visitor levy of 5% of the accommodation charge before VAT, limited to the first five nights. The table ranges treat this relatively small amount as part of the 8% planning reserve; confirm that a quoted room total includes it before comparing properties.
 
 ### A. Starting 15 February 2027
 
@@ -310,8 +323,8 @@ Planning target for two adults via London:
 
 Planning target for two adults via London:
 
-- Shared room: approximately **GBP 14,000-14,500**.
-- Two rooms: approximately **GBP 18,000-18,500**.
+- Shared room: approximately **GBP 11,450-17,300**.
+- Two rooms: approximately **GBP 14,350-21,900**.
 
 ### Best retained option for castles and autumn scenery
 
@@ -343,7 +356,6 @@ Planning target for two adults via London:
 
 ## 10. Reference links
 
-- Interactive route map: `C:\Users\noam\.codex\visualizations\2026\08\14\019fff30-4a90-7572-b3b3-fd77bcef774d\scotland-route-options.html`
 - [VisitScotland accommodation and seasonality](https://www.visitscotland.com/accommodation)
 - [VisitScotland hotels](https://www.visitscotland.com/accommodation/hotels)
 - [Oban value guesthouse example](https://rosevillaoban.co.uk/rates/)
@@ -366,3 +378,4 @@ Planning target for two adults via London:
 - [VisitScotland November breaks](https://www.visitscotland.com/travel-planning/when-to-visit/autumn/november-breaks)
 - [Inverness November 2027 sunrise and sunset](https://www.sunrisesunset.com/classic/calendar.asp?comb_city_info=Inverness%2C+Highland%2C+Scotland%3B4.2315%3B57.4767%3B0%3B2&month=11&time_type=2&year=2027)
 - [CalMac winter timetable information](https://www.calmac.co.uk/en-gb/travel/latest-customer-updates/customer-update-winter-timetables-2026-and-2027/)
+- [Official UK ETA guidance](https://www.gov.uk/eta)

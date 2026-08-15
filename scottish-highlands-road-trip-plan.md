@@ -88,33 +88,35 @@ For a five-week journey with a substantial November component, **28 October-1 De
 
 Numbers in parentheses are nights. Routes are deliberately based around two- to four-night stays whenever the duration permits. A “weather day” is not an empty day: it can be used for a museum, castle, short coastal walk or scenic drive if conditions are good.
 
+The map shows overnight bases, not every inland sight or day trip. The original route set deliberately favoured the dramatic west coast and islands, so the March options in particular are coast-heavy. The longer February, October and November routes retain a stronger inland spine through Highland Perthshire, the Cairngorms, Speyside and Aberdeenshire castle country. If inland scenery and castles become a higher priority, the right adjustment is to replace one coastal or island module with two- or three-night inland bases rather than insert a chain of one-night stops.
+
 ### A. Routes for 15 February departures
 
-These minimise seasonal ferry dependence and use the preferred open-jaw direction: Edinburgh first, rural Scotland in the middle and Glasgow last. Collect the car after Edinburgh and return it before the Glasgow stay. Mull, the Outer Hebrides, Durness and Orkney are deliberately omitted from the shorter winter trips.
+These minimise seasonal ferry dependence and use the preferred open-jaw direction: Edinburgh first, rural Scotland in the middle and Glasgow last. Collect the car after Edinburgh and return it before the Glasgow stay. Mull, the Outer Hebrides, Durness and Orkney are deliberately omitted from the shorter winter trips; the northwest is added progressively once the calendar reaches March.
 
 | Length | Winter route |
 |---|---|
 | 18 days / 17 nights | Edinburgh (3) -> Stirling (2) -> Cairngorms (2) -> Inverness (1) -> Glencoe (3) -> Oban (2) -> Inveraray (2) -> Glasgow (2) |
 | 21 days / 20 nights | Edinburgh (3) -> Stirling (2) -> Cairngorms (2) -> Speyside (2) -> Inverness (2) -> Glencoe (3) -> Oban (2) -> Inveraray (2) -> Glasgow (2) |
 | 24 days / 23 nights | Edinburgh (3) -> Stirling (2) -> Cairngorms (3) -> Speyside (2) -> Inverness (2) -> Skye via bridge (3) -> Fort William (1) -> Glencoe (3) -> Oban (2) -> Glasgow (2) |
-| 4 weeks / 27 nights | Edinburgh (3) -> Stirling (2) -> Cairngorms (3) -> Speyside (2) -> Inverness (2) -> Skye via bridge (4) -> Fort William (2) -> Glencoe (3) -> Oban (2) -> Inveraray (2) -> Glasgow (2) |
-| 5 weeks / 34 nights | Edinburgh (3) -> Stirling (2) -> Perthshire (2) -> Cairngorms (2) -> Aberdeenshire castle country (3) -> Speyside (3) -> Inverness (3) -> Skye via bridge (4) -> Fort William (2) -> Glencoe (3) -> Oban (2) -> Inveraray and Kilmartin (3) -> Glasgow (2) |
-| 6 weeks / 41 nights | Edinburgh (3) -> Stirling (2) -> Perthshire (2) -> Cairngorms (3) -> Aberdeenshire castle country (3) -> Speyside (3) -> Inverness (3) -> Ullapool (2) -> Torridon (3) -> Skye via bridge (4) -> Fort William (2) -> Glencoe (3) -> Oban (3) -> Inveraray and Kilmartin (3) -> Glasgow (2) |
+| 4 weeks / 27 nights | Edinburgh (3) -> Stirling (2) -> Cairngorms (3) -> Speyside (2) -> Inverness (2) -> Torridon (2) -> Skye via bridge (4) -> Glencoe (3) -> Oban (2) -> Inveraray (2) -> Glasgow (2) |
+| 5 weeks / 34 nights | Edinburgh (3) -> Stirling (2) -> Perthshire (2) -> Cairngorms (2) -> Aberdeenshire castle country (2) -> Speyside (3) -> Inverness (2) -> Ullapool and Assynt (3) -> Torridon (2) -> Skye via bridge (4) -> Glencoe (3) -> Oban (2) -> Inveraray and Kilmartin (2) -> Glasgow (2) |
+| 6 weeks / 41 nights | Edinburgh (3) -> Stirling (2) -> Perthshire (2) -> Cairngorms (3) -> Aberdeenshire castle country (3) -> Speyside (3) -> Inverness (2) -> Durness (2) -> Ullapool and Assynt (3) -> Torridon (3) -> Skye via bridge (4) -> Glencoe (3) -> Oban (3) -> Inveraray and Kilmartin (3) -> Glasgow (2) |
 
-Winter note: the 4-6 week versions include exposed roads only because their slower pace provides weather flexibility. Torridon and Ullapool remain optional substitutions if road conditions are poor.
+Winter note: the 4-6 week versions reach the exposed northwest in March, when daylight is improving and the climatological ice risk is easing, but poor road conditions remain possible. Torridon, Assynt and Durness are flexible route modules rather than fixed commitments; retain cancellable rooms and a mainland fallback.
 
 ### B. Routes for 15 March departures
 
-These introduce Mull and the northwest gradually. The six-week version is the previously discussed scenic-and-historic March-April route.
+These introduce Mull and the northwest gradually. Every version uses the preferred open-jaw direction, beginning in Edinburgh and ending in Glasgow. The six-week version is the previously discussed scenic-and-historic March-April route.
 
 | Length | Early-spring route |
 |---|---|
-| 18 days / 17 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Skye via bridge (2) -> Inverness (1) |
-| 21 days / 20 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (2) |
-| 24 days / 23 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (1) -> Cairngorms (1) |
-| 4 weeks / 27 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (4) -> Torridon (2) -> Inverness (1) -> Cairngorms (2) |
-| 5 weeks / 34 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (4) -> Torridon (2) -> Ullapool (2) -> Inverness (2) -> Cairngorms (2) |
-| 6 weeks / 41 nights | Edinburgh (3) -> Stirling (2) -> Glasgow (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (5) -> Torridon (3) -> Ullapool and Assynt (3) -> Durness (2) -> Inverness (3) -> Cairngorms (3) |
+| 18 days / 17 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Skye via bridge (2) -> Inverness (1) -> Glasgow (2) |
+| 21 days / 20 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (2) -> Glasgow (2) |
+| 24 days / 23 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (1) -> Cairngorms (1) -> Glasgow (2) |
+| 4 weeks / 27 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (4) -> Torridon (2) -> Inverness (1) -> Cairngorms (2) -> Glasgow (2) |
+| 5 weeks / 34 nights | Edinburgh (3) -> Stirling (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (4) -> Torridon (2) -> Ullapool (2) -> Inverness (2) -> Cairngorms (2) -> Glasgow (2) |
+| 6 weeks / 41 nights | Edinburgh (3) -> Stirling (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (5) -> Torridon (3) -> Ullapool and Assynt (3) -> Durness (2) -> Inverness (3) -> Cairngorms (3) -> Glasgow (2) |
 
 The March six-week route omits the Outer Hebrides and Orkney intentionally. It gains depth, weather resilience and more historical stops without making the early-season journey dependent on several exposed ferry crossings.
 

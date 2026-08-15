@@ -107,16 +107,16 @@ Winter note: the 4-6 week versions reach the exposed northwest in March, when da
 
 ### B. Routes for 15 March departures
 
-These introduce Mull and the northwest gradually. Every version uses the preferred open-jaw direction, beginning in Edinburgh and ending in Glasgow. The six-week version is the previously discussed scenic-and-historic March-April route.
+These introduce Mull and the northwest gradually. Every version starts in Glasgow, follows the west coast north, and returns inland to finish in Edinburgh. In the longer versions, the return adds Speyside, the Cairngorms, Highland Perthshire and Aberdeenshire castle country rather than treating the interior as a transfer corridor. The six-week version is the previously discussed scenic-and-historic March-April route.
 
 | Length | Early-spring route |
 |---|---|
-| 18 days / 17 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Skye via bridge (2) -> Inverness (1) -> Glasgow (2) |
-| 21 days / 20 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (2) -> Glasgow (2) |
-| 24 days / 23 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (1) -> Cairngorms (1) -> Glasgow (2) |
-| 4 weeks / 27 nights | Edinburgh (3) -> Stirling (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (4) -> Torridon (2) -> Inverness (1) -> Cairngorms (2) -> Glasgow (2) |
-| 5 weeks / 34 nights | Edinburgh (3) -> Stirling (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (4) -> Torridon (2) -> Ullapool (2) -> Inverness (2) -> Cairngorms (2) -> Glasgow (2) |
-| 6 weeks / 41 nights | Edinburgh (3) -> Stirling (2) -> Inveraray and Kilmartin (3) -> Oban (3) -> Mull (4) -> Glencoe (3) -> Arisaig (2) -> Skye (5) -> Torridon (3) -> Ullapool and Assynt (3) -> Durness (2) -> Inverness (3) -> Cairngorms (3) -> Glasgow (2) |
+| 18 days / 17 nights | Glasgow (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Skye via bridge (2) -> Inverness (1) -> Stirling (2) -> Edinburgh (3) |
+| 21 days / 20 nights | Glasgow (2) -> Inveraray (2) -> Oban (2) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (2) -> Stirling (2) -> Edinburgh (3) |
+| 24 days / 23 nights | Glasgow (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (3) -> Inverness (1) -> Cairngorms (1) -> Stirling (2) -> Edinburgh (3) |
+| 4 weeks / 27 nights | Glasgow (2) -> Inveraray (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Arisaig (1) -> Skye (4) -> Torridon (2) -> Inverness (1) -> Cairngorms (2) -> Stirling (2) -> Edinburgh (3) |
+| 5 weeks / 34 nights | Glasgow (2) -> Inveraray and Kilmartin (2) -> Oban (2) -> Mull (3) -> Glencoe (3) -> Skye (4) -> Torridon (2) -> Ullapool and Assynt (3) -> Inverness (2) -> Speyside (2) -> Cairngorms (2) -> Highland Perthshire (2) -> Stirling (2) -> Edinburgh (3) |
+| 6 weeks / 41 nights | Glasgow (2) -> Inveraray and Kilmartin (2) -> Oban (1) -> Mull (3) -> Glencoe (3) -> Skye (4) -> Torridon (3) -> Ullapool and Assynt (3) -> Durness (2) -> Inverness (2) -> Speyside (3) -> Aberdeenshire castle country (3) -> Cairngorms (3) -> Highland Perthshire (2) -> Stirling (2) -> Edinburgh (3) |
 
 The March six-week route omits the Outer Hebrides and Orkney intentionally. It gains depth, weather resilience and more historical stops without making the early-season journey dependent on several exposed ferry crossings.
 
@@ -186,7 +186,7 @@ A protected one-stop fare to Edinburgh or Glasgow with checked luggage remains a
 - Before buying non-refundable travel, use the official UK checker to confirm whether each traveller needs an Electronic Travel Authorisation (ETA) or a visa; entry requirements depend on nationality and circumstances.
 - Fly Tel Aviv-London nonstop.
 - Either spend a night in London or leave at least four hours between scheduled landing and a separately ticketed train.
-- For February and March, take the train to Edinburgh and complete that city portion before collecting the car. For October and November, starting in Glasgow and ending in Edinburgh puts the seasonal west-coast section earlier.
+- For February, take the train to Edinburgh and complete that city portion before collecting the car; the counter-clockwise route reaches the exposed northwest later as winter eases. For March, October and November, start in Glasgow and end in Edinburgh so the west-coast section occurs first and the trip finishes on the inland/eastern side.
 - Do not hire the road-trip car in London.
 - For a directional long route, return the car before the final city stay where possible. A return from Edinburgh or Glasgow is simplest; Inverness plus the sleeper remains an alternative.
 
@@ -321,7 +321,7 @@ Planning target for two adults via London:
 
 ### Longer early-season alternative
 
-**15 March-25 April 2027, six weeks.** Treat it as a gradual winter-to-spring journey and use the mainland/Mull/Skye route rather than the grand three-island-chain route.
+**15 March-25 April 2027, six weeks.** Start in Glasgow, follow the mainland/Mull/Skye route north to Durness, then return through Inverness, Speyside, Aberdeenshire, the Cairngorms and Highland Perthshire before finishing in Edinburgh. This is preferable to the grand three-island-chain route.
 
 Planning target for two adults via London:
 

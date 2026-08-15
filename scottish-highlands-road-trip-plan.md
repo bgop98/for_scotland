@@ -148,7 +148,7 @@ These avoid route-defining island ferries. The most remote and weather-sensitive
 
 November note: on short days, one principal sight plus a scenic drive is a full rural day. Aim to complete transfers by about 15:30, keep at least two nights per base, and substitute Inverness, Perthshire or an extra city night for Torridon or Ullapool if wintry road conditions develop.
 
-An earlier interactive route map is not included in this repository and predates the October and November additions. This document is therefore the sole current source for the seasonal routes.
+The [interactive seasonal route map](scotland-routes-map.html) includes all four date options and all six trip lengths. It is a schematic overview of overnight bases and ferry-dependent segments; use a navigation app for actual driving.
 
 ## 4. Corrected international-transport assumptions
 
@@ -356,6 +356,7 @@ Planning target for two adults via London:
 
 ## 10. Reference links
 
+- [Interactive seasonal route map](scotland-routes-map.html)
 - [VisitScotland accommodation and seasonality](https://www.visitscotland.com/accommodation)
 - [VisitScotland hotels](https://www.visitscotland.com/accommodation/hotels)
 - [Oban value guesthouse example](https://rosevillaoban.co.uk/rates/)
